@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+}
+body{
+    text-align: center;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color: rgb(117, 223, 68);
+    height: 70px;
+}
+.logo{
+    margin-right: 160rem;
+    margin-left: 30px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.categorias{
+    width: 45%;
+    margin-left: 50%;
+}
+.categorias,a{
+    margin-top: -69px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-top: 17px;
+    padding-bottom: 19px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#sankayus{
+    background-color: aliceblue;
+}
+.portada{
+    width: 100%;
+    height: 500px;
+}
+.naturaleza{
+    margin-top: -380px;
+    font-size: 50px;
+    margin-bottom: 170px;
+}
+.leermas{
+    background-color: orange;
+    border-radius: 10px;
+    margin-left: -530px;
+    color: aliceblue;
+    border: 1px solid white;
+    font-size: 20px;
+}
+.bienvenidos{
+    font-size: 25px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 50px;
+}
+.fotos{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+}
+.caracteristicas{
+    margin-left: -30%;
+    margin-top: 30px;
+}
+.importancia{
+    margin-top: -235px;
+}
+.vida{
+    margin-right: -30%;
+    margin-top: -235px;
+}
+.aprenda{
+    background-color: rgb(173, 227, 254);
+    margin-top: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.fotos2{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.cabello{
+    width: 25%;
+    margin-left: 5%;
+}
+.piel{
+    width: 25%;
+    margin-left: 37.5%;
+    margin-top: -425px;
+}
+.cuero{
+    width: 25%;
+    margin-left: 69%;
+    margin-top: -425px;
+}
+.enviar{
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+}
